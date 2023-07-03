@@ -1,0 +1,64 @@
+[{
+    "name":"Soul Music Academy",
+    "id" : "1",
+    "img":"https://as2.ftcdn.net/v2/jpg/02/81/90/79/1000_F_281907906_6tCknLmlQ9r49M8IMa9XnMZLAVOLiPKe.jpg",
+    "about":"This project is about a Music Academy site. Where users can book their class, visit the site Thank You.",
+    "live":"https://music-academy-9072a.web.app/",
+    "client_site":"https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-Faysalkibria007",
+    "server_site":"https://final-project-server-smoky.vercel.app",
+ 
+            "technologies" : [
+                "React", "Firebase" , "Material UI", "Redux", "HTML5", "CSS3", "Typescript" , "MongoDB", "React Hook Form","React Router", "Express"
+            ],
+
+        "desc" : "A music school is an educational institution specialized in the study, training, and research of music. Such an institution can also be known as a school of music, music academy, music faculty, college of music, music department (of a larger institution), conservatory, conservatorium or conservatoire.",
+        "images" : [
+            "https://www.cityshor.com/uploads/article/10_2015/1446015392_1432285187_web1_7_.jpg",
+            "https://media.istockphoto.com/id/1168477313/photo/waiting-to-be-played.webp?b=1&s=170667a&w=0&k=20&c=ES44_48IpOgSdcZsZQ_rPZwUt0YbIhkR8wH7lSLqwWI="
+            
+        ]
+    
+ },
+{
+    "name":"Toy Planet",
+    "id" : "2",
+    "img":"https://img.freepik.com/premium-photo/shop-toy-store-babies-soft-toy-closeup-shopping-trip-with-blurry-background_73683-3859.jpg",
+    "about":" This project is about a Toy shop purchase site, visit the site Thank You",
+    "live":"https://toy-planet-6b478.web.app/",
+    "client_site":"https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-Faysalkibria007",
+    "server_site":"https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-Faysalkibria007",
+
+            "technologies" : [
+                "React", "Firebase" , "Bootstrap", "Material UI", "Redux", "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
+            ],
+
+        "desc" : "In this project, you can purchase any type of toy you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. For purchasing a toy, you have to payment via card. In your dashboard You can see your purchase or booking list in my orders. If you become an admin, you will see other things in your dashboard. Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap and material ui. It's made by react-bootstrap, material ui and raw CSS. i also used MongoDB for database saving. We used React Hook form for the form, and the for payment system i used stripe .",
+        "images" : [
+            "https://www.shutterstock.com/image-photo/mother-girl-buying-toys-store-260nw-1414089416.jpg",
+            "https://img.freepik.com/premium-photo/mother-pretty-little-girl-buying-doll-toy-store_266732-19274.jpg"
+            
+        ]
+ },
+{
+    "name":"Restaurants Booking",
+    "id" : "3",
+    "img":"https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "about":"This project is about a restaurant booking site, Fully responsive for all devices, Users can sign in via Google or Facebook.",
+    "live":"https://khadok-51942.web.app/",
+    "client_site":"https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-Faysalkibria007",
+    "server_site":"https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-Faysalkibria007",
+
+            "technologies" : [
+                "React", "Firebase" , "Material UI", "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express" ],
+        "desc" : "In this project, you can order food. First you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form.",
+        "images" : [
+            "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+            "https://plus.unsplash.com/premium_photo-1675660733758-d71767314c34?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+        ]
+
+ }
+
+        
+    
+  
+]

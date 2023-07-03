@@ -1,0 +1,28 @@
+.skills {
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-row-gap: 50px;
+    text-align: center;
+}
+.skills .icons{
+    height: 100px;
+    width: 100px;
+    fill: white;
+    filter: brightness(0) invert(1);
+}
+@media only screen and (max-width: 980px) {
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      grid-row-gap: 50px;
+      text-align: center;
+  }
+  }
+@media only screen and (max-width: 680px) {
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(2,1fr);
+      grid-row-gap: 50px;
+      text-align: center;
+  }
+  }

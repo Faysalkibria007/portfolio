@@ -1,0 +1,49 @@
+,
+ {
+    "name":"Red Onion",
+    "id" : "6",
+    "img":"https://i.ibb.co/MBB6NvN/mockup-3.png",
+    "about":"This project is about a Hotel . Where you can order theirs food items to enjoy meals, dinner and breakfast. Order booking functions are not complete yet.I am working on it.",
+    "live":"https://hot-onion-restaurant-a367b.web.app/",
+    "client_site":"https://github.com/Fahad98723/best-restaurant-site",
+    "details" : [
+        {
+                "technologies" : [
+                "React", "Firebase", "HTML5","React Router", "CSS3"
+            ]
+        },
+        {"desc" : "In this project, you can order your favourite foods. But before you order, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS.We use firebase for authentication"},
+        {"images" : [
+            "https://i.ibb.co/3s5msyb/React-App.png?fbclid=IwAR2NaPDQMlrfOV4UEYI4NlqEZF4-bdfxvu0xt--VhFZRaGFCjhrG9lp5ZIs",
+            "https://i.ibb.co/XFLzj68/React-App-1.png?fbclid=IwAR2FUD0mahECWMjnjsXHMt4S0wr3YUsTTb4w4Bd0zZfhMTHz55R1JsCnJc8",
+            "https://i.ibb.co/J5pdTGR/Screenshot-10.png?fbclid=IwAR1r5fASV1EeSn5h7P1hDt8C6HYwVgLkx4mvaeS-ecgez6ApxobqC-dfhm4",
+            "https://i.ibb.co/KWTfmdJ/Screenshot-9.png?fbclid=IwAR3AwSUtghjTvUJiNzMKVKNDhw4bz3jy0wXzQhnuKvehkmC-_UjFqagtEEU"
+        ]}
+    ]
+ }
+
+ //  {
+//     "name":"Triangle Travel",
+//     "id" : "5",
+    
+//     "img":"https://i.ibb.co/hCfL4vB/mockup-1.png",
+//     "about":"This project is about a travel guide company. Where you can book any travel destination for your holiday. They have their own traveling team or places where you can also join in with their hiking and travel by booking.",
+//     "live":"https://travel-booking-site.web.app/",
+//     "client_site":"https://github.com/Fahad98723/triangle-travel-client-site",
+//     "server_site":"https://github.com/Fahad98723/triangle-travel-server-site",
+//     "details" : [
+//         {
+//             "technologies" : [
+//                 "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
+//             ]
+//         },
+//         {"desc" : "In this project, you can book some hiking travel destinations. But before you booking, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."}
+//         ,
+//         {"images" : [
+//             "https://i.ibb.co/xft0Hj9/Triangle-Travel-1.png?fbclid=IwAR1PualoIu0G8lJhQi3AkoLNrVx2T_XioRSBzGCClGGAHczXR7y0jok45SE",
+//             "https://i.ibb.co/8sgD2pV/Triangle-Travel-6.png?fbclid=IwAR3uIcl2oe4fqpZlNHPD9h-QgHC19tsIyJm3EUhP9i7yNPaeteaSkD6a4Dk",
+//             "https://i.ibb.co/L6V8xcL/Triangle-Travel-4.png",
+//             "https://i.ibb.co/Kwbwpw0/Triangle-Travel-5.png?fbclid=IwAR2Gkzg4MZGXWfoKPTY4cIYqs572EKCpZjmsI7BHin52eDutbaIea_ay0Cw"
+//         ]}
+//     ]
+//   },

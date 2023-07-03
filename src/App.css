@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Arvo&family=Fruktur&family=Griffy&family=Irish+Grover&family=Lora&family=Poppins&display=swap");
+/* DFDFDF, 909090, 007BEC, F5F5F5, 222222 */
+.body {
+  /* background: url('../src/Images/background.jpg') no-repeat ;
+  background-size: cover; */
+  /* font-family: 'Architects Daughter', cursive; */
+  /* font-family: 'Comforter Brush', cursive;  heading */
+  /* font-family: 'Irish Grover', cursive; */
+  font-family: "Poppins", sans-serif;
+  background: #2f2f36;
+  color: #dfdfdf;
+  width: 100%;
+  overflow: hidden;
+
+  cursor: none;
+}
+.heading h3 {
+  font-size: 30px;
+  font-family: "Architects Daughter", cursive;
+}
+.heading h1 {
+  font-family: "Poppins", sans-serif;
+  /* color :#007BEC; */
+  /* color :#00bcd4; */
+  color: antiquewhite;
+  font-size: 40px;
+}

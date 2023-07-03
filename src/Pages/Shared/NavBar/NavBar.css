@@ -1,0 +1,17 @@
+.navigation{
+    background: #2f2f36;
+}
+.navigation a {
+    color: white;
+}
+.logo{
+    font-family: 'Irish Grover', cursive;
+    font-size: 35px!important;
+}
+.menu {
+    font-size: 23px;
+    font-weight: 700;
+}
+.menu a:hover {
+    color: #0d6efd;
+}
